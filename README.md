@@ -1,0 +1,2 @@
+# maji
+new project
